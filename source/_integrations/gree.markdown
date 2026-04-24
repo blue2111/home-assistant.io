@@ -42,6 +42,7 @@ Any Gree Smart device working with the Gree+ app should be supported, including 
 - Lessar
 - Tosot
 - Wilfa
+- Sinclair
 
 ## Climate
 
